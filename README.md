@@ -26,7 +26,7 @@ Di sini kamu bisa melihat siapa saya, apa yang saya kerjakan, dan beberapa proye
 ## 🌐 Demo Online
 
 Kamu bisa melihat versi live dari portofolio ini di:  
-👉 [web-portofolio-sable-rho.vercel.app](https://web-portofolio-sable-rho.vercel.app)
+👉 [web-portofolio-git-main-wicayonimas-projects.vercel.app](https://web-portofolio-git-main-wicayonimas-projects.vercel.app)
 
 ## 📄 Resume
 
@@ -36,4 +36,4 @@ Untuk melihat CV saya, silakan download di sini:
 ## 📬 Kontak
 
 Ada pertanyaan atau ingin bekerja sama? Hubungi saya melalui email:  
-📧 [akunpencariuang123@gmail.com]
+📧 [akunpencariuang123@gmail.com](mailto:akunpencariuang123@gmail.com)
