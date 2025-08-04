@@ -1,6 +1,8 @@
 
 # Web Portofolio
 
+⚠️ This repo is still in development. Features and structure may change at any time.
+
 Selamat datang di portofolio digital saya!  
 Di sini kamu bisa melihat siapa saya, apa yang saya kerjakan, dan beberapa proyek yang pernah saya buat.
 
@@ -36,4 +38,4 @@ Untuk melihat CV saya, silakan download di sini:
 ## 📬 Kontak
 
 Ada pertanyaan atau ingin bekerja sama? Hubungi saya melalui email:  
-📧 [akunpencariuang123@gmail.com](mailto:akunpencariuang123@gmail.com)
+📧 [wicaksonodeveloper@gmail.com](mailto:wicaksonodeveloper@gmail.com)
